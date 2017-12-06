@@ -1,0 +1,52 @@
+{
+	"1" : {
+		"question": "Pusat pemerintahan Indonesia di Provinsi Jawa Barat.",
+		"answer": false
+	},
+
+	"2" : {
+		"question": "Bhineka tunggal ika memiliki arti berbeda-beda tetapi tetapi satu jua.",
+		"answer": true
+	},
+
+	"3" : {
+		"question": "Ir. Soekarno adalah Presiden pertama Indonesia.",
+		"answer": true
+	},
+
+	"4" : {
+		"question": "Presiden saat ini adalah Joko Widodo.",
+		"answer": true
+	},
+
+	"5" : {
+		"question": "Pada tanggal 17 Agustus 1945 adalah hari dimana Indonesia merdeka.",
+		"answer": true
+	},
+
+	"6" : {
+		"question": "Indonesia memiliki 200 macam budaya.",
+		"answer": false
+	},
+
+	"7" : {
+		"question": "Bandung adalah tempat dimana akan di gelar Asian Games 2018.",
+		"answer": false
+	},
+
+	"8" : {
+		"question": "Wakil presiden pada saat ini adalah Jusuf Kalla.",
+		"answer": true
+	},
+
+	"9" : {
+		"question": "Presiden Indonesia yang pernah membuat pesawat asli Indonesia adalah BJ Habibie.",
+		"answer": true
+	},
+
+	"10" : {
+		"question": "Indonesia memiliki 30 provinsi.",
+		"answer": false
+	}
+
+}
